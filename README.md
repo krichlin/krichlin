@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @krichlin
 - 👀 I’m interested in Virtual Reality
 - 🌱 I’m currently learning Full Stack Development at Flatiron School
-- 💞️ I’m looking to collaborate on Open Source Unity/C# Projects
+- 💞️ I’m looking to collaborate on my Book App, GreatReads!  
 - 📫 How to reach me - find me on my Twitter @kenrichlin
 
 <!---
